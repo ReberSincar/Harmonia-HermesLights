@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "267864213089",
+    "firebase_url": "https://hermeslights.firebaseio.com",
+    "project_id": "hermeslights",
+    "storage_bucket": "hermeslights.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267864213089:android:cd525d2deec2a2b157cc20",
+        "android_client_info": {
+          "package_name": "com.example.hermes_lights"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267864213089-vlco02cc36oam32i230dht45h7djrvkg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxF6dh31S9TGBvlwBFD7jWE2wgl5HEVL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267864213089-vlco02cc36oam32i230dht45h7djrvkg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
